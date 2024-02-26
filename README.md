@@ -1,6 +1,6 @@
 # Hi there, I'm Trashy 👋
 
-🚀 Fullstack Developer at [@Syntax-Anticheat](https://discord.gg/syntaxac), crafting digital solutions that defy limits.
+🚀 Fullstack Developer at [@Cyber-Plane](), crafting digital solutions that defy limits.
 
 💙 Frontend Developer at [@Aterna-Security](https://discord.aterna.lol), creating beautiful Landing pages that run smoothly everywhere.
 
