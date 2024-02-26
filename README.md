@@ -2,11 +2,11 @@
 
 🚀 Fullstack Developer at [@Cyber-Plane](https://github.com/Cyber-Plane), crafting digital solutions that defy limits.
 
-💻 **Technologies:** HTML, CSS, JS, React, TypeScript, Lua.
+💻 **Technologies:** HTML, CSS, JS, React, TypeScript, Lua, Python, Java - Minecraft.
 
 🌱 **Aspiring to master:** C++, C#, Assembly.
 
-🔭 **Passion:** Creating innovative solutions that make a difference and leave a lasting impact.
+🔭 **Passion:** Creating innovative solutions that provide you a fast and easy to maintain experience
 
-📫 **Let's Connect:** Feel free to reach out and collaborate on exciting projects!
+📫 **Let's Connect:** Feel free to reach out to me by using my [socials page](https://guns.lol/trashy)!
 
