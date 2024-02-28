@@ -10,5 +10,7 @@
 
 🔭 **Passion:** Creating innovative solutions that provide you a fast and easy to maintain experience
 
+😩 **Hell Yeah:** Fucking cheaters hard  with balled ass detection to fr suck them N-WORDs dry
+
 📫 **Let's Connect:** Feel free to reach out to me by using my [socials page](https://guns.lol/trashy)!
 
