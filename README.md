@@ -4,7 +4,7 @@
 
 💙 Frontend Developer at [@Aterna-Security](https://discord.aterna.lol), creating beautiful Landing pages that run smoothly everywhere.
 
-💻 **Technologies:** HTML, CSS, JS, React, TypeScript, Lua, Python, Java - Minecraft.
+💻 **Technologies:** HTML, CSS, JS, React, TypeScript, Lua, Java - Minecraft.
 
 🌱 **Aspiring to master:** C++, C#, Assembly.
 
@@ -14,3 +14,5 @@
 
 📫 **Let's Connect:** Feel free to reach out to me by using my [socials page](https://guns.lol/trashy)!
 
+
+And fuck anyone that writes python code tbh
