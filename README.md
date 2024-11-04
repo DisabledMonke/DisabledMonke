@@ -2,8 +2,6 @@
 
 🚀 Fullstack Developer at [@Cyber-Plane](https://github.com/Cyber-Plane), crafting digital solutions that defy limits.
 
-💙 Frontend Developer at [@Aterna-Security](https://discord.aterna.lol), creating beautiful Landing pages that run smoothly everywhere.
-
 💻 **Technologies:** HTML, CSS, JS, React, TypeScript, Lua, Java - Minecraft.
 
 🌱 **Aspiring to master:** C++, C#, Assembly.
